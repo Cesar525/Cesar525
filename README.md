@@ -1,10 +1,13 @@
 ### Hi there 👋
+###_____________________________________________________________________________
+I'm Cesar im a Web-Developer front end and back end.
 
+### Skills
 <!--
 **Cesar525/Cesar525** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
-fg
+
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
