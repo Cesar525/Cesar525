@@ -8,7 +8,9 @@ I love hardware programing like arduino as well.
 * CSS
 * PHP
 * CPP
+* SQL
 * ARDUINO
+* JAVASCRIPT
 
 feel free to contact cheers.
 
