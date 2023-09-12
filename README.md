@@ -11,6 +11,7 @@ I also enjoy hardware programing like arduino as well.
 * MySQL
 * ARDUINO
 * JAVASCRIPT
+* Electron
 
 
 Contact and Support me at my Website [Dev Let's Work Together](https://devletswork.com/)
